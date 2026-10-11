@@ -1,0 +1,6 @@
+{
+  "name": "Shift + Earth",
+  "description": "Shift + Earth: The subsea compute revolution. Exploring the problem of offshore digital infrastructure and advanced simulations of thermal dissipation, artificial upwelling, and marine impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
